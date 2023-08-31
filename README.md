@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 Web Developer<br>🔭 My current Project: VideoGame Blog<br>🤝 I’m looking for help with Database and SQ<br>🌱 I’m currently learning Back-End Technologies<br>
+👩‍💻 Web Developer<br>🔭 My current Project: VideoGame Blog<br>🤝 I’m looking for help with Database and SQL<br>🌱 I’m currently learning Back-End Technologies<br>
 
 
 ## 🌐 Socials:
