@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isa</h1>
 <h3 align="center">Web developer from Spain</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ni4nne" alt="ni4nne" /></a> </p>
+
 
 - 🔭 I’m currently working on **Shopping cart - JS**
 
