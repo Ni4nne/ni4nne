@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/isa30303457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isa30303457" height="30" width="40" /></a>
 <a href="https://instagram.com/ni4nne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ni4nne" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/isa-programacionydesarro-gz4ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="isa-programacionydesarro-gz4ss" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Isa-ProgramacionyDesarro-gz4ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="isa-programacionydesarro-gz4ss" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
