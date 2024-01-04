@@ -3,7 +3,7 @@
 
 
 
-<p align="center">🔭 I’m currently learning Angular </p>
+<p align="center">🔭 I’m learning Angular </p>
 
 <p align="center"> 🌱 I’m currently learning Front-end Technologies. </p> <br>
 
