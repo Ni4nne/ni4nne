@@ -28,5 +28,5 @@
 <a href="https://www.youtube.com/@Isa-ProgramacionyDesarro-gz4ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="isa-programacionydesarro-gz4ss" height="30" width="40" /></a>
 </p> 
 <br>
-<h3 align="left">Stats:</h3>
+<h3 align="center">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ni4nne&show_icons=true&locale=en&layout=compact" alt="ni4nne" width="300" height="200" /></p>
