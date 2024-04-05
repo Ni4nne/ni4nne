@@ -30,6 +30,3 @@
 <br>
 <h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ni4nne&show_icons=true&locale=en&layout=compact" alt="ni4nne" width="300" height="200" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ni4nne&" alt="ni4nne"/></p>
-
-
