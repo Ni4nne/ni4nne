@@ -1,9 +1,7 @@
 <h1 align="left">Hi, my name is Isa León 👋</h1>
 
 <p align="left"> I'm a web developer based in Girona, Spain.  </p>
-<p align="left"> Interested in both front and back-end technologies. Currently learning Angular. </p>
-<p align="left"> My actual project is "Web Layout", where I'm working on. </p>
-<p align="left"> Currently reading "Clean Code", from Robert C. Martin. </p>
+<p align="left"> Interested in both front and back-end technologies. </p>
 <br>
 <p align="left"> 🚀 Goals: </p>
 <p align="left"> Build applications focused on the user and their requirements. </p>
